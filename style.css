@@ -1,0 +1,324 @@
+.header{
+    background-image:url(images/rasiprints.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+.main-container{
+    overflow: hidden;
+}
+.navbar ul{
+    display: flex;
+    list-style-type: none;
+    gap:1cm;
+    margin-left: 2cm;
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    gap: 1cm;
+    margin-bottom: 3cm;
+
+}
+.call{
+    margin-left: 13cm;
+}
+.rasi-prints{
+    display: flex;
+}
+.elevate{
+     text-align: center;
+     font-size: 30px;
+     margin-right: 2cm;
+}
+.india{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    text-align: center;
+    margin-top: 1cm;
+       
+}
+.timeless-artistry{
+    display: flex;
+    margin-top: 1cm;
+}
+.premium{
+    display: flex;
+    gap:1cm;
+}
+.quality{
+    margin-bottom: 2cm;
+}
+.warrant{
+    display: flex;
+    gap:1cm;
+}
+.timely{
+    display: flex;
+    gap:1cm;
+}
+.sustainable{
+    display: flex;
+    gap:1cm;
+}
+
+.sophistication{
+    margin-left: 2cm;
+}
+.buttons{
+    display: flex;
+    gap: 2cm;
+    
+}
+.about-us{
+    display: flex;
+    gap: 7cm;
+    margin-top: 2cm;
+    background-color: aquamarine;
+}
+.rasi-array{
+    text-align: center;
+}
+
+.screen-printing{
+    display:flex;
+    gap: 5cm;
+}
+.aditya-industry{
+    display: flex;
+}
+.arvind-industry{
+    display: flex;
+}
+.arvind{
+    
+    
+}
+.raymond-mills{
+    display: flex;
+}
+.product{
+    display: flex;
+}
+.garments{
+    display: flex;
+    gap: 4cm;
+    margin-bottom: 2cm;
+}
+.quality-product{
+    margin-left: 3cm;
+}
+.brand{
+    display: flex;
+    gap:3cm;
+    margin-bottom: 2cm;
+}
+.showcasing{
+    text-align: center;
+}
+.designs{
+    display: flex;
+    margin-left: 3cm;
+}
+.product-four{
+    margin-left: 3cm;
+}
+.reach-rasi{
+    text-align: center;
+    margin-bottom: 2cm;
+}
+.accounts{
+     list-style-type: none;
+}
+.sitemap{
+    list-style-type: none;
+}
+
+
+.mail{
+    display: flex;
+}
+.calling{
+    display: flex;
+}
+.map{
+    margin-left: 3cm;
+    margin-bottom: 2cm;
+}
+.footer{
+    display: flex;
+    gap :3cm;
+    background-color: rgb(34, 33, 33);
+    color: white;
+}
+.copyright{
+    border-top: 1px white;
+    text-align: center;
+    background-color: rgb(34, 33, 33);
+}
+
+@media screen  and (max-width: 480px){
+    .header{
+        background-image:url(images/rasiprints.jpeg) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+       
+    }
+    .navbar ul{
+        display: flex;
+        list-style-type: none;
+        gap:1cm;
+        margin-left: 0.5cm;
+        
+    }
+    .navbar ul li a{
+        text-decoration: none;
+        color:white;
+        font-size: 20px;
+        font-weight: bold;
+        gap: 1cm;
+        margin-bottom: 1cm;
+    
+    }
+    .call{
+        margin-left: 5cm;
+    }
+    .rasi-prints{
+        display: block;
+    }
+    .elevate{
+         text-align: center;
+         font-size: 30px;
+         margin-right: 2cm;
+    }
+    .india{
+        border-top: 1px solid;
+        border-bottom: 1px solid;
+        text-align: center;
+        margin-top: 1cm;
+           
+    }
+    .timeless-artistry{
+        display: block;
+        margin-top: 1cm;
+    }
+    .premium{
+        display: block;
+        gap:1cm;
+    }
+    .quality{
+        margin-bottom: 2cm;
+    }
+    .warrant{
+        display: block;
+        gap:1cm;
+    }
+    .timely{
+        display: block;
+        gap:1cm;
+    }
+    .sustainable{
+        display: block;
+        gap:1cm;
+    }
+    
+    .sophistication{
+        margin-left: 2cm;
+    }
+    .buttons{
+        display: block;
+        gap: 2cm;
+        
+    }
+    .about-us{
+        display: block;
+        gap: 2cm;
+        margin-top: 2cm;
+        background-color: aquamarine;
+    }
+    .rasi-array{
+        text-align: center;
+    }
+    
+    .screen-printing{
+        display:block;
+        gap: cm;
+    }
+    .aditya-industry{
+        display: block;
+    }
+    .arvind-industry{
+        display: block;
+    }
+    .arvind{
+        
+        
+    }
+    .raymond-mills{
+        display: block;
+    }
+    .product{
+        display: block;
+    }
+    .garments{
+        display: block;
+        gap: 4cm;
+        margin-bottom: 2cm;
+    }
+    .quality-product{
+        margin-left: 0cm;
+    }
+    .brand{
+        display: block;
+        gap:3cm;
+        margin-bottom: 2cm;
+    }
+    .showcasing{
+        text-align: center;
+    }
+    .designs{
+        display: block;
+        margin-left: 0cm;
+    }
+    .product-four{
+        margin-left: 0.5cm;
+    }
+    .reach-rasi{
+        text-align: center;
+        margin-bottom: 2cm;
+    }
+    .accounts{
+         list-style-type: none;
+    }
+    .sitemap{
+        list-style-type: none;
+    }
+    
+    
+    .mail{
+        display: block;
+    }
+    .calling{
+        display: block;
+    }
+    .map{
+        margin-left: 0cm;
+        margin-bottom: 2cm;
+    }
+    .footer{
+        display: block;
+        gap :3cm;
+        background-color: rgb(34, 33, 33);
+        color: white;
+    }
+    .copyright{
+        border-top: 1px white;
+        text-align: center;
+        background-color: rgb(34, 33, 33);
+    }   
+}
